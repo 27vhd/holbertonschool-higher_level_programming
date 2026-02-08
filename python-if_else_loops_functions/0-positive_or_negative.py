@@ -1,0 +1,11 @@
+#!/usr/bin/python3
+import random
+number = random.randint(-10, 10)
+status = ""
+if(number > 0):
+    status = "positive"
+elif(number < 0):
+    status = "negative"
+else:
+    status = "zero"
+print(f"{number} is {status}")
