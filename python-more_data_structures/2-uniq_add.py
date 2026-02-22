@@ -4,9 +4,9 @@ def uniq_add(my_list=[]):
     """Adds all unique integers in a list (only once for each integer).
 
     Args:
-        my_list (list): A list of integers. 
+        my_list (list): A list of integers.
 
     Returns:
-        The sum of all unique integers in the list. 
+        The sum of all unique integers in the list.
     """
     return sum(set(my_list))
