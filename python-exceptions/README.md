@@ -1,0 +1,1 @@
+Samirin canı sağ olsun!
